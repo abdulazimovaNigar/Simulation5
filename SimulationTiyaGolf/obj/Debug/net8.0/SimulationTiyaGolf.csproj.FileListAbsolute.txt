@@ -253,3 +253,4 @@ D:\2442r\CFF\csharp\TiyaGolf\SimulationTiyaGolf\SimulationTiyaGolf\bin\Debug\net
 D:\2442r\CFF\csharp\TiyaGolf\SimulationTiyaGolf\SimulationTiyaGolf\obj\Debug\net8.0\SimulationTiyaGolf.csproj.AssemblyReference.cache
 D:\2442r\CFF\csharp\TiyaGolf\SimulationTiyaGolf\SimulationTiyaGolf\obj\Debug\net8.0\Simulati.FFEE5DC0.Up2Date
 D:\2442r\CFF\csharp\TiyaGolf\SimulationTiyaGolf\SimulationTiyaGolf\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\2442r\CFF\csharp\TiyaGolf\SimulationTiyaGolf\SimulationTiyaGolf\obj\Debug\net8.0\SimulationTiyaGolf.sourcelink.json

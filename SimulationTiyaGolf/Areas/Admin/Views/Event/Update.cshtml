@@ -1,5 +1,41 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿@using SimulationTiyaGolf.ViewModels
+@model EventUpdateVM
+
+<div class="container">
+	<div class="row">
+		<form method="post">
+			<div class="form-group">
+				<label asp-for="Title">Title</label>
+				<input asp-for="Title" placeholder="Enter event Title">
+				<span asp-validation-for="Title"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Description">Description</label>
+				<input asp-for="Description" placeholder="Enter event Description">
+				<span asp-validation-for="Description"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Price">Price</label>
+				<input asp-for="Price" placeholder="Enter event Price">
+				<span asp-validation-for="Price"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="EventDate">EventDate</label>
+				<input asp-for="EventDate" placeholder="Enter event EventDate">
+				<span asp-validation-for="EventDate"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="LocationId">LocationId</label>
+				<input asp-for="LocationId" placeholder="Enter event LocationId">
+				<span asp-validation-for="LocationId"></span>
+			</div>
+			<div class="custom-file">
+				<input class="custom-file-input" asp-for="Image">
+				<label asp-for="Image" class="custom-file-label" for="customFile">Choose file</label>
+				<span asp-validation-for="Image"></span>
+			</div>
+			<button type="submit" class="btn btn-warnin0" asp-action="Update">Update</button>
+		</form>
+
+	</div>
+</div>

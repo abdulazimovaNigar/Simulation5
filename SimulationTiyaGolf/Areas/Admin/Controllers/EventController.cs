@@ -19,7 +19,7 @@ public class EventController : Controller
     {
         _context = context;
         _environment = environment;
-        folderPath = Path.Combine(_environment.WebRootPath, "img");
+        folderPath = Path.Combine(_environment.WebRootPath, "images");
     }
 
 

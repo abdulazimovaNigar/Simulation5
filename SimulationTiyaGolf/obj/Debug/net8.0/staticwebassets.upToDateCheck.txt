@@ -3,6 +3,8 @@ wwwroot\css\bootstrap.min.css
 wwwroot\css\templatemo-tiya-golf-club.css
 wwwroot\fonts\bootstrap-icons.woff
 wwwroot\fonts\bootstrap-icons.woff2
+wwwroot\images\2fa7b2ec-22d3-4fc7-b0e0-7cb6786b57aabird-8788491_1280.jpg
+wwwroot\images\a09ac76b-9459-4373-a5c9-8ec4b85e694ebird-8788491_1280.jpg
 wwwroot\images\anna-rosar-ew-olGvgCCs-unsplash.jpg
 wwwroot\images\anna-rosar-ZxFyVBHMK-c-unsplash.jpg
 wwwroot\images\frederik-rosar-NDSZcCfnsbY-unsplash.jpg
