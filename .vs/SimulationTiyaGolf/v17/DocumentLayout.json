@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2442r\\CFF\\csharp\\TiyaGolf\\SimulationTiyaGolf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E779DC37-95D7-4BC4-9528-D37DED104412}|SimulationTiyaGolf\\SimulationTiyaGolf.csproj|d:\\2442r\\cff\\csharp\\tiyagolf\\simulationtiyagolf\\simulationtiyagolf\\areas\\admin\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E779DC37-95D7-4BC4-9528-D37DED104412}|SimulationTiyaGolf\\SimulationTiyaGolf.csproj|solutionrelative:simulationtiyagolf\\areas\\admin\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E779DC37-95D7-4BC4-9528-D37DED104412}|SimulationTiyaGolf\\SimulationTiyaGolf.csproj|d:\\2442r\\cff\\csharp\\tiyagolf\\simulationtiyagolf\\simulationtiyagolf\\viewmodels\\eventupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E779DC37-95D7-4BC4-9528-D37DED104412}|SimulationTiyaGolf\\SimulationTiyaGolf.csproj|solutionrelative:simulationtiyagolf\\viewmodels\\eventupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E779DC37-95D7-4BC4-9528-D37DED104412}|SimulationTiyaGolf\\SimulationTiyaGolf.csproj|d:\\2442r\\cff\\csharp\\tiyagolf\\simulationtiyagolf\\simulationtiyagolf\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E779DC37-95D7-4BC4-9528-D37DED104412}|SimulationTiyaGolf\\SimulationTiyaGolf.csproj|solutionrelative:simulationtiyagolf\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E779DC37-95D7-4BC4-9528-D37DED104412}|SimulationTiyaGolf\\SimulationTiyaGolf.csproj|d:\\2442r\\cff\\csharp\\tiyagolf\\simulationtiyagolf\\simulationtiyagolf\\areas\\admin\\views\\event\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E779DC37-95D7-4BC4-9528-D37DED104412}|SimulationTiyaGolf\\SimulationTiyaGolf.csproj|solutionrelative:simulationtiyagolf\\areas\\admin\\views\\event\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E779DC37-95D7-4BC4-9528-D37DED104412}|SimulationTiyaGolf\\SimulationTiyaGolf.csproj|d:\\2442r\\cff\\csharp\\tiyagolf\\simulationtiyagolf\\simulationtiyagolf\\viewmodels\\eventcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E779DC37-95D7-4BC4-9528-D37DED104412}|SimulationTiyaGolf\\SimulationTiyaGolf.csproj|solutionrelative:simulationtiyagolf\\viewmodels\\eventcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E779DC37-95D7-4BC4-9528-D37DED104412}|SimulationTiyaGolf\\SimulationTiyaGolf.csproj|d:\\2442r\\cff\\csharp\\tiyagolf\\simulationtiyagolf\\simulationtiyagolf\\viewmodels\\eventgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E779DC37-95D7-4BC4-9528-D37DED104412}|SimulationTiyaGolf\\SimulationTiyaGolf.csproj|solutionrelative:simulationtiyagolf\\viewmodels\\eventgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1113,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\TiyaGolf\\SimulationTiyaGolf\\SimulationTiyaGolf\\Areas\\Admin\\Views\\Event\\Update.cshtml",
+              "RelativeDocumentMoniker": "SimulationTiyaGolf\\Areas\\Admin\\Views\\Event\\Update.cshtml",
+              "ToolTip": "D:\\2442r\\CFF\\csharp\\TiyaGolf\\SimulationTiyaGolf\\SimulationTiyaGolf\\Areas\\Admin\\Views\\Event\\Update.cshtml",
+              "RelativeToolTip": "SimulationTiyaGolf\\Areas\\Admin\\Views\\Event\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T13:59:26.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventUpdateVM.cs",
+              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\TiyaGolf\\SimulationTiyaGolf\\SimulationTiyaGolf\\ViewModels\\EventUpdateVM.cs",
+              "RelativeDocumentMoniker": "SimulationTiyaGolf\\ViewModels\\EventUpdateVM.cs",
+              "ToolTip": "D:\\2442r\\CFF\\csharp\\TiyaGolf\\SimulationTiyaGolf\\SimulationTiyaGolf\\ViewModels\\EventUpdateVM.cs",
+              "RelativeToolTip": "SimulationTiyaGolf\\ViewModels\\EventUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T13:45:17.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventGetVM.cs",
+              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\TiyaGolf\\SimulationTiyaGolf\\SimulationTiyaGolf\\ViewModels\\EventGetVM.cs",
+              "RelativeDocumentMoniker": "SimulationTiyaGolf\\ViewModels\\EventGetVM.cs",
+              "ToolTip": "D:\\2442r\\CFF\\csharp\\TiyaGolf\\SimulationTiyaGolf\\SimulationTiyaGolf\\ViewModels\\EventGetVM.cs",
+              "RelativeToolTip": "SimulationTiyaGolf\\ViewModels\\EventGetVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T13:45:05.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventCreateVM.cs",
+              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\TiyaGolf\\SimulationTiyaGolf\\SimulationTiyaGolf\\ViewModels\\EventCreateVM.cs",
+              "RelativeDocumentMoniker": "SimulationTiyaGolf\\ViewModels\\EventCreateVM.cs",
+              "ToolTip": "D:\\2442r\\CFF\\csharp\\TiyaGolf\\SimulationTiyaGolf\\SimulationTiyaGolf\\ViewModels\\EventCreateVM.cs",
+              "RelativeToolTip": "SimulationTiyaGolf\\ViewModels\\EventCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T13:43:53.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\TiyaGolf\\SimulationTiyaGolf\\SimulationTiyaGolf\\Helpers\\FileHelper.cs",
+              "RelativeDocumentMoniker": "SimulationTiyaGolf\\Helpers\\FileHelper.cs",
+              "ToolTip": "D:\\2442r\\CFF\\csharp\\TiyaGolf\\SimulationTiyaGolf\\SimulationTiyaGolf\\Helpers\\FileHelper.cs",
+              "RelativeToolTip": "SimulationTiyaGolf\\Helpers\\FileHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T13:25:50.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\TiyaGolf\\SimulationTiyaGolf\\SimulationTiyaGolf\\Areas\\Admin\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "SimulationTiyaGolf\\Areas\\Admin\\Controllers\\EventController.cs",
+              "ToolTip": "D:\\2442r\\CFF\\csharp\\TiyaGolf\\SimulationTiyaGolf\\SimulationTiyaGolf\\Areas\\Admin\\Controllers\\EventController.cs",
+              "RelativeToolTip": "SimulationTiyaGolf\\Areas\\Admin\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:47:25.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

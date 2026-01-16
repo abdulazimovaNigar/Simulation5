@@ -1,0 +1,33 @@
+﻿@model List<Event>
+<div class="container">
+    <div class="row">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">Id</th>
+                    <th scope="col">Country</th>
+                    <th scope="col">City</th>
+                    <th scope="col">Action buttons</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var eventik in Model)
+                {
+                    <tr>
+                        <th scope="row">@eventik.Id</th>
+                        <td>@eventik.Title</td>
+                        <td>@eventik.Description</td>
+                        <td>@eventik.EventDate</td>
+                        <td>@eventik.Image</td>
+                        <td>@eventik.LocationId</td>
+                        <td>@eventik.Price</td>
+                        <td>
+                            <a asp-action="Update" asp-route-id="@eventik.Id" class="btn btn-warning">Update</a>
+                            <a asp-action="Delete" asp-route-id="@eventik.Id" class="btn btn-danger">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
